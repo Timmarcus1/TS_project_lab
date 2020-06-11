@@ -4,3 +4,4 @@ Hey, you!
 Hi, I'm Tim
 I'm learning command lines
 I'm kinda excited about it
+I've retrieved my repo!
